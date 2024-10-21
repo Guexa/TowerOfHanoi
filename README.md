@@ -82,7 +82,7 @@ This API exposes endpoints that return the calculated moves or the total number 
 - **Spring Boot**: Java-based framework used to build the backend API.
 - **Swagger (Springfox)**: Used for API documentation.
 - **Maven**: Dependency management and build tool.
-- **Java 11**: Programming language used for the backend.
+- **Java 17**: Programming language used for the backend.
 - **H2 Database** (optional): In-memory database for testing (if required).
 - **Postman**: Used to test and consume the APIs.
 
