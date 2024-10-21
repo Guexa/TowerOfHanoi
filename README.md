@@ -102,6 +102,3 @@ This API exposes endpoints that return the calculated moves or the total number 
 `mvn spring-boot:run`
 
 The application will run on http://localhost:8081 by default.
-
-To test the endpoints, use a tool like Postman or access the Swagger UI:
-`http://localhost:8081/swagger-ui/`
